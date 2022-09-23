@@ -12,24 +12,25 @@ Add how to's link in the paranthesis above and delete this line
 
 ## Prerequisite for Code Innovate 
 
-## Use Case - Add Use Case Details Here
+## Use Case - Configure a CI/CD pipeline for migrating the ATP objects, scripts and packages from TEST -> UAT -> PROD
 
 ## Team 
-| Name | Email |Github Username: |
+| Name | Email |Github Username |
 |--- |--- |--- |
-||||
-||||
-||||
-||||
+|Dirk Markley | dmarkley@woodmark.com||
+|Baljeet Sing-Oberoi | bsinghoberoi@deloitte.com | BaljeetOberoi|
+|Mehul Shaw | mshaw@woodmark.com||
+|Jay Aneja | janeja@woodmark.com ||
 
 ## Your Oracle Engineers
 | Name 	     | Email	                |Github Username: |
 |--- |--- |--- |
-||||
+|Derrick Cameron|derrick.cameron@oracle.com||
+|Saipriya Thirvakadu|saipriya.thirvakadu@oracle.com|saipriyabalu|
 
 ## Oracle Staff
-| Name | Role | Email| Github Username: |
+| Name | Role | Email| Github Username |
 |---	 |---	  |---   |---   |
-||CE Lead|||
+|Saipriya Thirvakadu|CE Lead|saipriya.thirvakadu@oracle.com|saipriyabalu|
 ||Zoom Lead|||
-||PM Lead|||
+|Shawn Carwright|PM Lead|shawn.cartwright@oracle.com||
