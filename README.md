@@ -12,7 +12,8 @@ Add how to's link in the paranthesis above and delete this line
 
 ## Prerequisite for Code Innovate 
 
-## Use Case - Configure a CI/CD pipeline for migrating the ATP objects, scripts and packages from TEST -> UAT -> PROD
+## Use Case - 
+Configure a CI/CD pipeline for migrating the ATP objects, scripts and packages from TEST -> UAT -> PROD
 
 ## Team 
 | Name | Email |Github Username |
