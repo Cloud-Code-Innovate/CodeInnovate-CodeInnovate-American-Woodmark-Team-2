@@ -26,7 +26,7 @@ Configure a CI/CD pipeline for migrating the ATP objects, scripts and packages f
 ## Your Oracle Engineers
 | Name 	     | Email	                |Github Username: |
 |--- |--- |--- |
-|Derrick Cameron|derrick.cameron@oracle.com||
+|Derrick Cameron|derrick.cameron@oracle.com|dgcameron|
 |Saipriya Thirvakadu|saipriya.thirvakadu@oracle.com|saipriyabalu|
 
 ## Oracle Staff
